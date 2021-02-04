@@ -42,13 +42,6 @@ def matrix_lookup(matrix, row, column)
   # Given any matrix (array of arrays), a row index and a column index, 
   # Return the matrix's content at that row and and column
   
-  row = ["Eggplant", "Grapefruit", "Oranges", "Pineapple", "Watermelon"]
-  column = ["Asparagus", "Avocadoes", "Grapes", "Potatoes", "Strawberries"]
-  
-  matrix = [
-    row,
-    column,
-    ]
   
 
 end 
